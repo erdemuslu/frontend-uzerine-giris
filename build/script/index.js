@@ -23,6 +23,7 @@ function () {
     key: "render",
     value: function render() {
       console.log('Test class is running');
+      console.log('...');
     }
   }]);
 
